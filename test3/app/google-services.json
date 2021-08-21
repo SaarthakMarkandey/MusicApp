@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663892089545",
+    "project_id": "the-rolling-stone",
+    "storage_bucket": "the-rolling-stone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663892089545:android:970c0ccd5782ea62810b18",
+        "android_client_info": {
+          "package_name": "com.example.test3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663892089545-6c2qqlcpe5pb6ougq8qr0ac7cmikc3ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhFbWAZs1eMLXfpHZZ5IkgP5vW2Picss4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663892089545-6c2qqlcpe5pb6ougq8qr0ac7cmikc3ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
